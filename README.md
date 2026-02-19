@@ -1,15 +1,15 @@
 ## Hi there 👋, I'm Peter Owili
 
-# 💫 About Me:
-I'm Data Engineer & Researcher.
-Web Developer and Designer.
+#  About Me:
+I'm Data Engineer & Researcher.<br>
+Web Developer and Designer.<br><br>
 Highly ambitious and technically proficient student actively developing a strong foundation in Data Analysis, Python Programming, and Web Development. 
-Seeking remote professional opportunities to leverage expertise in data processing, data analysis, data visualization(using pandas, numpy, seaborn , sciltklearn, matplotlib & plotif, power Bi, tableau and qlik) , web development and research.
-Still a student of Bachelor of Engineering (B.Eng.) in Electrical and Telecommunication Engineering at Multimedia University of Kenya | Nairobi, Kenya
-Technical Skills: Python, SQL, HTML/CSS, JavaScript, Microsoft Excel, Data Visualization (Matplotlib, Seaborn)
-Soft Skills: Strong analytical thinking, effective communication, teamwork, adaptability
-Hobbies: Coding personal projects, reading tech blogs, playing football
-Certifications: Completed online courses in Data Analysis and Web Development on platforms like Coursera and freeCodeCamp.
+Seeking remote professional opportunities to leverage expertise in data processing, data analysis, data visualization(using pandas, numpy, seaborn , sciltklearn, matplotlib & plotif, power Bi, tableau and qlik) , web development and research.<br>
+Still a student of Bachelor of Engineering (B.Eng.) in Electrical and Telecommunication Engineering at Multimedia University of Kenya | Nairobi, Kenya<br>
+Technical Skills: Python, SQL, HTML/CSS, JavaScript, Microsoft Excel, Data Visualization (Matplotlib, Seaborn)<br>
+Soft Skills: Strong analytical thinking, effective communication, teamwork, adaptability<br>
+Hobbies: Coding personal projects, reading tech blogs, playing football<br>
+Certifications: Completed online courses in Data Analysis and Web Development on platforms like Coursera and freeCodeCamp.<br>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@owilioduor-a11y) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/owili_superb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/owili_superb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owili_superb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Peter) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@owili_superb) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Peter Oduor Owili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peterowil56@gmail.com) 
 
@@ -26,7 +26,7 @@ Certifications: Completed online courses in Data Analysis and Web Development on
 ---
 [![](https://visitcount.itsvg.in/api?id=owilioduor-a11y&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 PAY OUT TO MY ACCOUNT
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/peterowili56@gmail.com) 
 
   
