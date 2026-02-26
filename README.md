@@ -16,7 +16,11 @@ I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Na
 ## 🌐 Connect with Me
 <p align="left">
 <a href="mailto:peterowil56@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="2"></a>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/owili_superb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owili_superb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@owili_superb)
+<a href="https://facebook.com/owili_superb"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" hspace="2"></a>
+<a href="https://instagram.com/owili_superb"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" hspace="2"></a>
+<a href="https://tiktok.com/@owili_superb"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" hspace="2"></a>
+<a href="https://medium.com/@Peter"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" hspace="2"></a>
+</p>
 
 ---
 
@@ -45,10 +49,10 @@ I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Na
 ## 🏆 Certifications & Education
 * **B.Eng. in Electrical and Telecommunication Engineering** - Multimedia University of Kenya
 * **Data Analysis & Web Development** - Coursera & freeCodeCamp
-
-> "Simplicity is the soul of efficiency." — *Edsger Dijkstra*
 ## 💰 PAY OUT TO MY ACCOUNT
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/peterowili56@gmail.com) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/peterowili56@gmail.com)
+> "Simplicity is the soul of efficiency." — *Edsger Dijkstra*
+
 
   
 
