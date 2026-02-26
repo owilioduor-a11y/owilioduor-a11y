@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/owilioduor-a11y/BANK-COSTOMER-DATA-ANALYSIS/main/super001.png" width="800" alt="Peter Owili - Data Engineer & Researcher">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Researcher;Web+Developer+%26+Designer;Electrical+%26+Telecom+Student" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
