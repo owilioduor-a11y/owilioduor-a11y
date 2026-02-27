@@ -43,16 +43,17 @@ I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Na
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
-###### 🗄️ Database & Cloud
+### 🗄️ Database & Cloud
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-###### Machine Learning Tools
+### Machine Learning Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ## 🏆 Certifications & Education
 * **B.Eng. in Electrical and Telecommunication Engineering** - Multimedia University of Kenya
 * **Data Analysis & Web Development** - Coursera & freeCodeCamp
-## 💰 PAY OUT TO MY ACCOUNT
+### 💰 PAY OUT TO MY ACCOUNT
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/peterowili56@gmail.com)
+### QUOTE 
 > "Simplicity is the soul of efficiency." — *Edsger Dijkstra*
 
 
