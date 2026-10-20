@@ -1,37 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="100%">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1f1612" />
       <stop offset="100%" stop-color="#2d221c" />
     </linearGradient>
 
+    <!-- Pixel Grid Pattern -->
     <pattern id="pixelGrid" width="12" height="12" patternUnits="userSpaceOnUse">
       <path d="M 12 0 L 0 0 0 12" fill="none" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.22" />
       <circle cx="12" cy="12" r="1" fill="#ffffff" fill-opacity="0.3" />
     </pattern>
-    
-    <style>
-      .title { 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
-        font-weight: 700; 
-        fill: #ffffff; 
-        font-size: 26px; 
-      }
-      .subtitle { 
-        font-family: "Fira Code", monospace; 
-        font-weight: 600; 
-        fill: #dcd6d0; 
-        font-size: 15px; 
-      }
-    </style>
   </defs>
 
+  <!-- Background Layers -->
   <rect width="800" height="160" fill="url(#bgGradient)" />
   <rect width="800" height="160" fill="url(#pixelGrid)" />
   <rect x="0" y="0" width="800" height="3" fill="#ffffff" />
 
+  <!-- Text Section -->
   <g transform="translate(40, 72)">
-    <text x="0" y="0" class="title">Hi there, I am Peter Owili</text>
-    <text x="0" y="36" class="subtitle">> Data Engineer & Researcher | Web Developer</text>
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="700" fill="#ffffff" font-size="26px">Hi there, I am Peter Owili</text>
+    <text x="0" y="36" font-family="&#39;Fira Code&#39;, monospace" font-weight="600" fill="#dcd6d0" font-size="15px">> Data Analyst | Web Developer</text>
   </g>
 </svg>
