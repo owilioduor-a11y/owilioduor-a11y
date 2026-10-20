@@ -38,6 +38,6 @@
   <!-- Overlaid Header Text -->
   <g transform="translate(45, 100)">
     <text x="0" y="0" class="title">Hi there 👋, I'm Peter Owili</text>
-    <text x="0" y="42" class="subtitle">> Data Engineer & Researcher | Web Developer</text>
+    <text x="0" y="42" class="subtitle">> Data Analyst | Web Developer</text>
   </g>
 </svg>
