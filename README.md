@@ -1,17 +1,18 @@
 # Hi there 👋, I'm Peter Owili
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owilioduor-a11y/BANK-COSTOMER-DATA-ANALYSIS/main/super001.png" width="800" alt="Peter Owili - Data Engineer & Researcher">
-  <br>
+  <!-- Pixelated B&W Image resized to smaller dimensions (width 300px) -->
+  <img src="https://raw.githubusercontent.com/owilioduor-a11y/BANK-COSTOMER-DATA-ANALYSIS/main/super001_pixelated_bw.png" width="300" alt="Peter Owili - Pixelated Avatar" />
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Researcher;Web+Developer+%26+Designer;Electrical+%26+Telecom+Student" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
-I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Nairobi, Kenya. Currently pursuing my B.Eng. in Electrical and Telecommunication Engineering at Multimedia University of Kenya.
+I am a **data analyst and web developer** based in Nairobi, Kenya. Currently pursuing my B.Eng. in Electrical and Telecommunication Engineering at Multimedia University of Kenya.
 
-* 💡 **Highly Ambitious:** Developing a strong foundation in Data Analysis and Python.
-* 🔭 **Currently Seeking:** Remote professional opportunities in data processing and visualization.
-* ⚽ **Hobbies:** Coding personal projects, reading tech blogs, and playing football.
+- 💡 **Highly Ambitious:** Developing a strong foundation in Data Analysis and Python.
+- 🔭 **Currently Seeking:** Remote professional opportunities in data processing and visualization.
+- ⚽ **Hobbies:** Coding personal projects, reading tech blogs, and playing football.
 
 ---
 
@@ -36,6 +37,7 @@ I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Na
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,16 +45,25 @@ I am a **Data Engineer & Researcher** and **Web Developer/Designer** based in Na
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
+
 ### 🗄️ Database & Cloud
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ### Machine Learning Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 
 ## 🏆 Certifications & Education
-* **B.Eng. in Electrical and Telecommunication Engineering** - Multimedia University of Kenya
-* **Data Analysis & Web Development** - Coursera & freeCodeCamp
+- **B.Eng. in Electrical and Telecommunication Engineering** - Multimedia University of Kenya
+- **Data Analysis & Web Development** - Coursera & freeCodeCamp
+
 ### 💰 PAY OUT TO MY ACCOUNT
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/peterowili56@gmail.com)
+
 ### QUOTE 
 > "Simplicity is the soul of efficiency." — *Edsger Dijkstra*
 
