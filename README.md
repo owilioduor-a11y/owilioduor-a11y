@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Peter Owili
-
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Peter Owili Banner">
 </p>
