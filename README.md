@@ -6,7 +6,7 @@
 I am a **data analyst and web developer** based in Nairobi, Kenya. Currently pursuing my B.Eng. in Electrical and Telecommunication Engineering at Multimedia University of Kenya.
 
 - 💡 **Highly Ambitious:** Developing a strong foundation in Data Analysis and Python.
-- 🔭 **Currently Seeking:** Remote professional opportunities in data processing and visualization.
+- 🔭 **Currently Building:** . Building a Fintech startup based in Naiobi, Kenya for global payment.
 - ⚽ **Hobbies:** Coding personal projects, reading tech blogs, and playing football.
 
 ---
