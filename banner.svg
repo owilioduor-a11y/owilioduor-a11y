@@ -21,6 +21,6 @@
   <!-- Text Section -->
   <g transform="translate(40, 72)">
     <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="700" fill="#ffffff" font-size="26px">Hi there, I am Peter Owili</text>
-    <text x="0" y="36" font-family="&#39;Fira Code&#39;, monospace" font-weight="600" fill="#dcd6d0" font-size="15px">> Data Analyst & Web Developer</text>
+    <text x="0" y="36" font-family="&#39;Fira Code&#39;, monospace" font-weight="600" fill="#dcd6d0" font-size="15px">> Data Analyst | Web Developer</text>
   </g>
 </svg>
